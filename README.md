@@ -1,12 +1,16 @@
-# Android Development Portfolio — ZID TECH
+# ZID TECH | Android Development Portfolio
 
-**Kotlin | Jetpack Compose | Firebase | Android SDK**
+**Kotlin · Jetpack Compose · Firebase · Android SDK**
 
-I'm an independent Android developer from Ghana. I build and publish Android applications, with practical experience in application development, UI implementation, backend integration, monetization, and Google Play deployment.
+I'm an independent Android developer from Ghana, focused on building, improving, and maintaining practical Android applications.
 
-This repository documents selected projects I've developed and published.
+I develop Android applications with modern tools and technologies, focusing on user-friendly interfaces, reliable functionality, backend integration, and real-world problem solving.
+
+This portfolio showcases four Android applications I've developed and published on Google Play.
 
 ---
+
+# Featured Projects
 
 ## 1. Amplified Hearing
 
@@ -15,7 +19,7 @@ This repository documents selected projects I've developed and published.
 
 An Android application that amplifies microphone audio and routes processed sound to connected headphones.
 
-**Screenshots**
+### Screenshots
 
 <p align="center">
   <img src="images/hearing-dashboard.png" width="30%" alt="Amplified Hearing dashboard" />
@@ -23,13 +27,16 @@ An Android application that amplifies microphone audio and routes processed soun
   <img src="images/hearing-studio.png" width="30%" alt="Amplified Hearing studio" />
 </p>
 
-**Key features**
+### Key Features
+
 - Real-time microphone audio amplification.
 - Bluetooth and wired headphone routing.
 - Adjustable amplification controls.
 - Noise reduction and voice clarity controls.
 - Five-band equalizer and audio balance.
 - Processed audio recording for Premium users.
+
+**Engineering Focus:** Android audio input and output, audio processing, device routing, and premium feature access.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.mobivision.amplifiedhearing)
 
@@ -42,19 +49,23 @@ An Android application that amplifies microphone audio and routes processed soun
 
 A CV-building application that helps users create professional resumes using predefined templates.
 
-**Screenshots**
+### Screenshots
 
 <p align="center">
   <img src="images/hirepilot-home.png" width="42%" alt="HirePilot home screen" />
-  <img src="images/hirepilot-templates.png" width="42%" alt="HirePilot templates" />
+  <img src="images/hirepilot-templates.png" width="42%" alt="HirePilot CV templates" />
 </p>
 
-**Key features**
+### Key Features
+
 - CV creation and editing.
 - Multiple resume templates.
 - Offline saving.
 - PDF generation and export.
 - Premium template access.
+- Premium watermark removal.
+
+**Engineering Focus:** Document workflows, local data management, PDF generation, and premium purchase entitlements.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zidtech.hirepilot)
 
@@ -67,17 +78,20 @@ A CV-building application that helps users create professional resumes using pre
 
 A document-scanning application designed to help users capture and manage documents digitally.
 
-**Screenshot**
+### Screenshot
 
 <p align="center">
   <img src="images/studysnap-scanner.png" width="42%" alt="StudySnap document scanner" />
 </p>
 
-**Key features**
+### Key Features
+
 - Document scanning using Google ML Kit Document Scanner.
 - Document capture and processing.
 - PDF workflow.
 - Free and Premium usage limits.
+
+**Engineering Focus:** Integrating Google's document-scanning capabilities into an Android application and implementing premium access controls.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.studysnap)
 
@@ -86,35 +100,33 @@ A document-scanning application designed to help users capture and manage docume
 ## 4. Bible & Quran Mastery
 
 **Category:** Education  
-**Technologies:** Kotlin, Jetpack Compose, Firebase
+**Technologies:** Kotlin, Jetpack Compose, Firebase Authentication, Cloud Firestore, Realtime Database, Firebase Cloud Messaging
 
-A learning application combining Bible and Quran reading, quizzes, daily challenges, bookmarks, and Firebase-powered features.
+A learning application that brings Bible and Quran study features together in one Android experience.
 
-**Screenshot**
+### Screenshot
 
 <p align="center">
   <img src="images/bible-quran-home.png" width="42%" alt="Bible and Quran Mastery home screen" />
 </p>
 
-**Key features**
+### Key Features
+
 - Bible and Quran reading.
 - Search and bookmarks.
 - Interactive quizzes.
 - Daily challenges.
 - Leaderboard.
 - Firebase-backed application features.
+- Daily content and notifications.
 
-[View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.quizapp)
-
-**Engineering focus**
-
-Integrating Firebase services, building learning workflows, managing user-related data, and supporting engagement through daily content and notifications.
+**Engineering Focus:** Firebase integration, user-related data management, learning workflows, and engagement features.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.quizapp)
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 | Area | Technologies |
 |---|---|
@@ -123,34 +135,38 @@ Integrating Firebase services, building learning workflows, managing user-relate
 | Backend | Firebase Authentication, Firestore, Realtime Database |
 | Notifications | Firebase Cloud Messaging |
 | Audio | Android Audio APIs |
-| Document processing | ML Kit Document Scanner, PDF generation |
+| Document Processing | ML Kit Document Scanner, PDF generation |
 | Monetization | Google Play Billing |
-| Development tools | Android Studio, Git, GitHub |
+| Development Tools | Android Studio, Git, GitHub |
 
 ---
 
-## Services
+# Android Development Services
 
-I am available for freelance and remote Android development work, including:
+I am available to help with:
 
 - Native Android application development.
-- Kotlin and Jetpack Compose implementation.
-- Firebase integration.
-- Google Play Billing integration.
-- Feature development.
-- Debugging and maintenance.
+- Kotlin and Jetpack Compose UI development.
+- Firebase integration and authentication.
+- Google Play Billing implementation.
+- New feature development and integration.
+- Bug fixing and application maintenance.
 - Document scanning and PDF workflows.
 - Android audio functionality.
 
 ---
 
-## Contact
+# Let's Work Together
 
-**Developer:** ZID TECH  
-**Email:** zaididdrisu193@gmail.com  
-**GitHub:** https://github.com/zaididdrisu193-lgtm
+I'm open to freelance projects, collaboration, and remote Android development opportunities.
 
-**Published applications:** [Google Play](https://play.google.com/store/apps/developer?id=ZID+TECH)
+**Developer:** ZID TECH
+
+**Email:** [zaididdrisu193@gmail.com](mailto:zaididdrisu193@gmail.com)
+
+**GitHub:** [github.com/zaididdrisu193-lgtm](https://github.com/zaididdrisu193-lgtm)
+
+**Published Applications:** [View on Google Play](https://play.google.com/store/apps/developer?id=ZID+TECH)
 
 ---
 
