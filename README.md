@@ -1,1 +1,145 @@
-# android-development-portfolio
+# Android Development Portfolio — ZID TECH
+
+**Kotlin | Jetpack Compose | Firebase | Android SDK**
+
+I'm an independent Android developer from Ghana. I build and publish Android applications, with practical experience in application development, UI implementation, backend integration, monetization, and Google Play deployment.
+
+This repository documents selected projects I've developed and published.
+
+---
+
+## 1. Amplified Hearing
+
+**Category:** Audio / Accessibility  
+**Platform:** Android  
+**Technologies:** Kotlin, Jetpack Compose, Android Audio APIs, Google Play Billing
+
+An Android application that amplifies microphone audio and routes processed sound to connected headphones.
+
+**Key features**
+- Real-time microphone audio amplification.
+- Bluetooth and wired headphone routing.
+- Adjustable amplification controls.
+- Noise reduction and voice clarity controls.
+- Five-band equalizer and audio balance.
+- Processed audio recording for Premium users.
+
+**Engineering focus**
+
+Working with Android audio input and output, audio processing, device routing, and premium feature access.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.mobivision.amplifiedhearing)
+
+---
+
+## 2. HirePilot — CV Builder
+
+**Category:** Productivity  
+**Platform:** Android  
+**Technologies:** Kotlin, Jetpack Compose, Android PDF APIs, Google Play Billing
+
+A CV-building application that helps users create professional resumes using predefined templates.
+
+**Key features**
+- CV creation and editing.
+- Multiple resume templates.
+- Offline saving.
+- PDF generation and export.
+- Premium template access.
+- Premium watermark removal.
+
+**Engineering focus**
+
+Building document workflows, managing locally saved user data, generating PDFs, and implementing premium purchase entitlements.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.zidtech.hirepilot)
+
+---
+
+## 3. StudySnap — Document Scanner
+
+**Category:** Productivity  
+**Platform:** Android  
+**Technologies:** Kotlin, Jetpack Compose, Google ML Kit Document Scanner
+
+A document-scanning application designed to help users capture and manage documents digitally.
+
+**Key features**
+- Document scanning using Google ML Kit Document Scanner.
+- Document capture and processing.
+- PDF workflow.
+- Free and Premium usage limits.
+
+**Engineering focus**
+
+Integrating Google's document-scanning capabilities into an Android application and implementing a premium access model.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.studysnap)
+
+---
+
+## 4. Bible & Quran Mastery
+
+**Category:** Education  
+**Platform:** Android  
+**Technologies:** Kotlin, Jetpack Compose, Firebase Authentication, Cloud Firestore, Realtime Database, Firebase Cloud Messaging
+
+A learning application that brings Bible and Quran study features together in one Android experience.
+
+**Key features**
+- Bible and Quran reading.
+- Search and bookmarks.
+- Interactive quizzes.
+- Daily challenges.
+- Leaderboard.
+- Firebase-backed user and application features.
+
+**Engineering focus**
+
+Integrating Firebase services, building learning workflows, managing user-related data, and supporting engagement through daily content and notifications.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.quizapp)
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Programming | Kotlin |
+| Android UI | Jetpack Compose, Material Design |
+| Backend | Firebase Authentication, Firestore, Realtime Database |
+| Notifications | Firebase Cloud Messaging |
+| Audio | Android Audio APIs |
+| Document processing | ML Kit Document Scanner, PDF generation |
+| Monetization | Google Play Billing |
+| Development tools | Android Studio, Git, GitHub |
+
+---
+
+## Services
+
+I am available for freelance and remote Android development work, including:
+
+- Native Android application development.
+- Kotlin and Jetpack Compose implementation.
+- Firebase integration.
+- Google Play Billing integration.
+- Feature development.
+- Debugging and maintenance.
+- Document scanning and PDF workflows.
+- Android audio functionality.
+
+---
+
+## Contact
+
+**Developer:** ZID TECH  
+**Email:** zaididdrisu193@gmail.com  
+**GitHub:** https://github.com/zaididdrisu193-lgtm
+
+**Published applications:** [Google Play](https://play.google.com/store/apps/developer?id=ZID+TECH)
+
+---
+
+*Selected Android applications designed, developed, and published by ZID TECH.*
