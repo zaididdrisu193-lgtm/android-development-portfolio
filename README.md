@@ -10,11 +10,18 @@ This repository documents selected projects I've developed and published.
 
 ## 1. Amplified Hearing
 
-**Category:** Audio / Accessibility  
-**Platform:** Android  
+**Category:** Audio  
 **Technologies:** Kotlin, Jetpack Compose, Android Audio APIs, Google Play Billing
 
 An Android application that amplifies microphone audio and routes processed sound to connected headphones.
+
+**Screenshots**
+
+<p align="center">
+  <img src="images/hearing-dashboard.png" width="30%" alt="Amplified Hearing dashboard" />
+  <img src="images/hearing-controls.png" width="30%" alt="Amplified Hearing controls" />
+  <img src="images/hearing-studio.png" width="30%" alt="Amplified Hearing studio" />
+</p>
 
 **Key features**
 - Real-time microphone audio amplification.
@@ -24,10 +31,6 @@ An Android application that amplifies microphone audio and routes processed soun
 - Five-band equalizer and audio balance.
 - Processed audio recording for Premium users.
 
-**Engineering focus**
-
-Working with Android audio input and output, audio processing, device routing, and premium feature access.
-
 [View on Google Play](https://play.google.com/store/apps/details?id=com.mobivision.amplifiedhearing)
 
 ---
@@ -35,10 +38,16 @@ Working with Android audio input and output, audio processing, device routing, a
 ## 2. HirePilot — CV Builder
 
 **Category:** Productivity  
-**Platform:** Android  
 **Technologies:** Kotlin, Jetpack Compose, Android PDF APIs, Google Play Billing
 
 A CV-building application that helps users create professional resumes using predefined templates.
+
+**Screenshots**
+
+<p align="center">
+  <img src="images/hirepilot-home.png" width="42%" alt="HirePilot home screen" />
+  <img src="images/hirepilot-templates.png" width="42%" alt="HirePilot templates" />
+</p>
 
 **Key features**
 - CV creation and editing.
@@ -46,11 +55,6 @@ A CV-building application that helps users create professional resumes using pre
 - Offline saving.
 - PDF generation and export.
 - Premium template access.
-- Premium watermark removal.
-
-**Engineering focus**
-
-Building document workflows, managing locally saved user data, generating PDFs, and implementing premium purchase entitlements.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zidtech.hirepilot)
 
@@ -59,20 +63,21 @@ Building document workflows, managing locally saved user data, generating PDFs, 
 ## 3. StudySnap — Document Scanner
 
 **Category:** Productivity  
-**Platform:** Android  
 **Technologies:** Kotlin, Jetpack Compose, Google ML Kit Document Scanner
 
 A document-scanning application designed to help users capture and manage documents digitally.
+
+**Screenshot**
+
+<p align="center">
+  <img src="images/studysnap-scanner.png" width="42%" alt="StudySnap document scanner" />
+</p>
 
 **Key features**
 - Document scanning using Google ML Kit Document Scanner.
 - Document capture and processing.
 - PDF workflow.
 - Free and Premium usage limits.
-
-**Engineering focus**
-
-Integrating Google's document-scanning capabilities into an Android application and implementing a premium access model.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.studysnap)
 
@@ -81,10 +86,15 @@ Integrating Google's document-scanning capabilities into an Android application 
 ## 4. Bible & Quran Mastery
 
 **Category:** Education  
-**Platform:** Android  
-**Technologies:** Kotlin, Jetpack Compose, Firebase Authentication, Cloud Firestore, Realtime Database, Firebase Cloud Messaging
+**Technologies:** Kotlin, Jetpack Compose, Firebase
 
-A learning application that brings Bible and Quran study features together in one Android experience.
+A learning application combining Bible and Quran reading, quizzes, daily challenges, bookmarks, and Firebase-powered features.
+
+**Screenshot**
+
+<p align="center">
+  <img src="images/bible-quran-home.png" width="42%" alt="Bible and Quran Mastery home screen" />
+</p>
 
 **Key features**
 - Bible and Quran reading.
@@ -92,7 +102,9 @@ A learning application that brings Bible and Quran study features together in on
 - Interactive quizzes.
 - Daily challenges.
 - Leaderboard.
-- Firebase-backed user and application features.
+- Firebase-backed application features.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.zaididdrisu.quizapp)
 
 **Engineering focus**
 
